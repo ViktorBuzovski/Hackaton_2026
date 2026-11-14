@@ -1,0 +1,107 @@
+{
+ "target": "mawrth-vallis",
+ "preset": "landing (Rover & landing tests)",
+ "note": "Top cells from the Ground Truth app's scoring rule, at least 300 km apart and over 150 km from catalogued analog sites. Rock type set to sediment by hand.",
+ "cells": [
+  {
+   "rank": 1,
+   "slug": "01-sistan-and-baluchestan-iran",
+   "place": "Sistan and Baluchestan, Iran (Asia)",
+   "lat": 30.125,
+   "lon": 60.625,
+   "app_score": 84.9,
+   "nearest_known": "Matanomadh, Kutch",
+   "nearest_known_km": 1105
+  },
+  {
+   "rank": 2,
+   "slug": "02-baluchistan-pakistan",
+   "place": "Baluchistan, Pakistan (Asia)",
+   "lat": 26.625,
+   "lon": 62.375,
+   "app_score": 82.9,
+   "nearest_known": "Matanomadh, Kutch",
+   "nearest_known_km": 748
+  },
+  {
+   "rank": 3,
+   "slug": "03-atacama-chile",
+   "place": "Atacama, Chile (South America)",
+   "lat": -25.625,
+   "lon": -69.125,
+   "app_score": 82.9,
+   "nearest_known": "Yungay, Atacama Desert",
+   "nearest_known_km": 192
+  },
+  {
+   "rank": 4,
+   "slug": "04-baluchistan-pakistan",
+   "place": "Baluchistan, Pakistan (Asia)",
+   "lat": 28.625,
+   "lon": 65.875,
+   "app_score": 81.3,
+   "nearest_known": "Matanomadh, Kutch",
+   "nearest_known_km": 644
+  },
+  {
+   "rank": 5,
+   "slug": "05-punjab-pakistan",
+   "place": "Punjab, Pakistan (Asia)",
+   "lat": 29.375,
+   "lon": 69.875,
+   "app_score": 80.8,
+   "nearest_known": "Matanomadh, Kutch",
+   "nearest_known_km": 654
+  },
+  {
+   "rank": 6,
+   "slug": "06-borkou-chad",
+   "place": "Borkou, Chad (Africa)",
+   "lat": 20.625,
+   "lon": 18.375,
+   "app_score": 80.3,
+   "nearest_known": "Gilf Kebir, Western Desert",
+   "nearest_known_km": 839
+  },
+  {
+   "rank": 7,
+   "slug": "07-san-juan-argentina",
+   "place": "San Juan, Argentina (South America)",
+   "lat": -30.625,
+   "lon": -69.125,
+   "app_score": 80.2,
+   "nearest_known": "Laguna Negra, Puna",
+   "nearest_known_km": 335
+  },
+  {
+   "rank": 8,
+   "slug": "08-esfahan-iran",
+   "place": "Esfahan, Iran (Asia)",
+   "lat": 33.375,
+   "lon": 54.375,
+   "app_score": 80.0,
+   "nearest_known": "Dhofar desert (AMADEE-18)",
+   "nearest_known_km": 1610
+  },
+  {
+   "rank": 9,
+   "slug": "09-janub-sina-egypt",
+   "place": "Janub Sina', Egypt (Africa)",
+   "lat": 27.875,
+   "lon": 34.125,
+   "app_score": 79.8,
+   "nearest_known": "Wadi Rum",
+   "nearest_known_km": 227
+  },
+  {
+   "rank": 10,
+   "slug": "10-xinjiang-china",
+   "place": "Xinjiang, China (Asia)",
+   "lat": 44.875,
+   "lon": 92.125,
+   "app_score": 79.8,
+   "nearest_known": "Turpan Depression",
+   "nearest_known_km": 337
+  }
+ ]
+}
