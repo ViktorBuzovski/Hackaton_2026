@@ -1,0 +1,18 @@
+{
+ "slug": "10-xinjiang-china",
+ "lat": 44.812,
+ "lon": 92.3281,
+ "score": 87.8,
+ "elev_mean_m": 714,
+ "land_cover_percent": {
+  "Bare / sparse vegetation": 99.9,
+  "Grassland": 0.1,
+  "Shrubland": 0.0,
+  "Built-up": 0.0,
+  "Tree cover": 0.0,
+  "Permanent water": 0.0
+ },
+ "figure": "fig_10-xinjiang-china.png",
+ "mars_model": "P19_008469_2042_XI_24N019W__P20_008825_2042_XI_24N019W",
+ "generated_with": "Claude Code (Anthropic), AI-assisted"
+}

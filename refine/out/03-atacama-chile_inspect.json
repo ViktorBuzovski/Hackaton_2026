@@ -1,0 +1,14 @@
+{
+ "slug": "03-atacama-chile",
+ "lat": -25.1754,
+ "lon": -68.9953,
+ "score": 87.2,
+ "elev_mean_m": 3823,
+ "land_cover_percent": {
+  "Bare / sparse vegetation": 100.0,
+  "Grassland": 0.0
+ },
+ "figure": "fig_03-atacama-chile.png",
+ "mars_model": "P19_008469_2042_XI_24N019W__P20_008825_2042_XI_24N019W",
+ "generated_with": "Claude Code (Anthropic), AI-assisted"
+}

@@ -1,0 +1,16 @@
+{
+ "slug": "07-san-juan-argentina",
+ "lat": -30.715,
+ "lon": -69.334,
+ "score": 86.2,
+ "elev_mean_m": 2427,
+ "land_cover_percent": {
+  "Bare / sparse vegetation": 75.2,
+  "Grassland": 24.8,
+  "Shrubland": 0.1,
+  "Built-up": 0.0
+ },
+ "figure": "fig_07-san-juan-argentina.png",
+ "mars_model": "P19_008469_2042_XI_24N019W__P20_008825_2042_XI_24N019W",
+ "generated_with": "Claude Code (Anthropic), AI-assisted"
+}
